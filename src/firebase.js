@@ -11,12 +11,15 @@ import firebase from 'firebase/compat/app';
 import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 import 'firebase/compat/database';
+import 'firebase/compat/storage';
 
 // import { initializeApp } from 'firebase/compat/app';
 
 const firebaseConfig = {
   apiKey: 'AIzaSyCvAMNkOZe85uLkstaknfQimWGxpQ9w6u8',
   authDomain: 'slack-clone-40c16.firebaseapp.com',
+  databaseURL:
+    'https://slack-clone-40c16-default-rtdb.asia-southeast1.firebasedatabase.app',
   projectId: 'slack-clone-40c16',
   storageBucket: 'slack-clone-40c16.appspot.com',
   messagingSenderId: '778392929202',
@@ -31,5 +34,7 @@ const firebaseConfig = {
 
 firebase.initializeApp(firebaseConfig);
 const auth = firebase.auth();
-
+const databaseRef = firebase.database().ref();
+const storageRef = firebase.storage().ref();
+export const slackRef = databaseRef.child('Slack-Clone');
 export default firebase;

@@ -1,3 +1,7 @@
+This is a Clne of Slack Chat App but for developers, to dicuss differnt topics of tech. This is a Pratice Project.
+Web URL:
+https://slack-clone-40c16.web.app
+---------------------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2484,5 +2488,6 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
-#   S L A C K - C L O N E  
- 
+#� �S�L�A�C�K�-�C�L�O�N�E�
+�
+�

@@ -13,7 +13,7 @@ body,
 
 /* Messages.js */
 .messages {
-  height: 72vh;
+  height: 62vh;
   overflow-y: scroll;
 }
 
@@ -25,6 +25,10 @@ body,
   left: 0;
   right: 1em;
   z-index: 200;
+}
+
+.emoijpicker {
+  position: absolute;
 }
 
 /* Message.js */

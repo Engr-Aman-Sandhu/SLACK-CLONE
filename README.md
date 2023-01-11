@@ -1,4 +1,4 @@
-This is a Clne of Slack Chat App but for developers, to dicuss differnt topics of tech. This is a Pratice Project.
+This is a Clone of Slack Chat App but for developers, to communicate with each other and also to dicuss different topics related to tech. This is a Pratice Project.
 Web URL:
 https://slack-clone-40c16.web.app
 ---------------------------------------------------------------------------------------------------------------------
